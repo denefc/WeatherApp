@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="image_description">mainimage</string>
+    <string name="centigrade_value">32°C</string>
+    <string name="wind_text">15 km/h</string>
+    <string name="city_name">Istanbul</string>
+</resources>
